@@ -1,5 +1,5 @@
-# This function finds an input number in a list by applying binary search strategy
-# mh.olyaee@gmail.com
+// This function finds an input number in a list by applying binary search strategy
+// mh.olyaee@gmail.com
 #include<iostream>
 using namespace std;
  int BST(int arr[], int l, int r, int x)
