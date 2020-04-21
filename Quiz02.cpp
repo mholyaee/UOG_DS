@@ -1,3 +1,4 @@
+//Finding common elements between two ordered arrays with length n
 #include<iostream>
 using namespace std;
 
