@@ -1,6 +1,8 @@
 # Data Structures Course - University of Gonabad
 
-![University](https://img.shields.io/badge/https:/www.gonabad.ac.ir)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)
+![University](https://img.shields.io/badge/University-Gonabad-8A2BE2)
+
 
 This repository contains all course materials including code examples, quizzes, and homework assignments for the Data Structures course taught at the University of Gonabad.
 
